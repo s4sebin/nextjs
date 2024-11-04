@@ -1,0 +1,23 @@
+// Colors
+$primary-color: #007bff;
+$secondary-color: #6c757d;
+$success-color: #28a745;
+$error-color: #dc3545;
+
+// Spacing
+$spacing-unit: 8px;
+$spacing: (
+  "xs": $spacing-unit,
+  "sm": $spacing-unit * 2,
+  "md": $spacing-unit * 3,
+  "lg": $spacing-unit * 4,
+  "xl": $spacing-unit * 5,
+);
+
+// Z-index
+$z-index: (
+  "modal": 1000,
+  "dropdown": 900,
+  "header": 800,
+  "footer": 700,
+);
